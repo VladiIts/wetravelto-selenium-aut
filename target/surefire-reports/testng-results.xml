@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20625" started-at="2015-12-06T18:21:33Z" finished-at="2015-12-06T18:21:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20625" started-at="2015-12-06T18:21:33Z" finished-at="2015-12-06T18:21:53Z">
+      <class name="wetravelto_selenium.TestNgMavenSecondClass">
+        <test-method status="PASS" signature="oneMoreTest()[pri:0, instance:wetravelto_selenium.TestNgMavenSecondClass@26319e5b]" name="oneMoreTest" duration-ms="1" started-at="2015-12-06T10:21:53Z" finished-at="2015-12-06T10:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneMoreTest -->
+      </class> <!-- wetravelto_selenium.TestNgMavenSecondClass -->
+      <class name="wetravelto_selenium.TestNgMavenExampleTest">
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:wetravelto_selenium.TestNgMavenExampleTest@3fdba174]" name="exampleOfTestNgMaven" duration-ms="0" started-at="2015-12-06T10:21:53Z" finished-at="2015-12-06T10:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+      </class> <!-- wetravelto_selenium.TestNgMavenExampleTest -->
+      <class name="wetravelto_selenium.LP_verify_title_Test">
+        <test-method status="PASS" signature="setupBeforeTest()[pri:0, instance:wetravelto_selenium.LP_verify_title_Test@4656be4e]" name="setupBeforeTest" is-config="true" duration-ms="19563" started-at="2015-12-06T10:21:33Z" finished-at="2015-12-06T10:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTest -->
+        <test-method status="PASS" signature="findBrokenLinksTest()[pri:0, instance:wetravelto_selenium.LP_verify_title_Test@4656be4e]" name="findBrokenLinksTest" duration-ms="2" started-at="2015-12-06T10:21:52Z" finished-at="2015-12-06T10:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findBrokenLinksTest -->
+        <test-method status="PASS" signature="TearDownTest()[pri:0, instance:wetravelto_selenium.LP_verify_title_Test@4656be4e]" name="TearDownTest" is-config="true" duration-ms="1038" started-at="2015-12-06T10:21:52Z" finished-at="2015-12-06T10:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownTest -->
+      </class> <!-- wetravelto_selenium.LP_verify_title_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
